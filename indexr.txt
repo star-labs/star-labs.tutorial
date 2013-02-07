@@ -1,1 +1,5 @@
 Liam "er en fjott"
+
+--Gunnar sier:
+	Det var leit.
+--end comment
