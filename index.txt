@@ -1,5 +1,10 @@
 Kan alle se dette?
 		-hilsen carl
 		
+<<<<<<< HEAD
 		Hvor ble det av det jeg skrev isted?
 		
+=======
+	I don't get it
+		--Gunnar
+>>>>>>> gunnarsBranch
